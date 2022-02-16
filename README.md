@@ -21,7 +21,7 @@ In order to use the worker pool follow the below instructions.
 3- use following command to build an executable for using the tool
 
 ```shell
-go build -o build/tool cmd/main.go
+go build -o build/tool cmd/url_hash_retriever/main.go
 ```
 
 Then you can use the tool by following command
